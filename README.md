@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ernie! 👋</h1>
 
-🎯 ** Data Analyst & Statistician**  
+🎯 **Data Analyst & Statistician**  
 🎓 Bachelor of Science in Statistics Graduate  
 📊 Passionate about turning data into insights and solving real-world problems.
 
