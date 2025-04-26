@@ -25,8 +25,8 @@
 
 <h2>📫 Let's Connect:</h2>
 
-- [[LinkedIn](https://www.linkedin.com/in/john-ernie-l-04b56a179/)](YOUR_LINKEDIN_PROFILE)
-- [Email](mailto:YOUR_EMAIL@example.com)
+- [[LinkedIn](https://www.linkedin.com/in/john-ernie-l-04b56a179/)]
+- [john.lubugan20@gmail.com]
 
 ---
 
