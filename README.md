@@ -9,11 +9,17 @@
 <h2>📈 My Projects:</h2>
 
 - <b>Restaurant Order Analysis (MySQL)</b>  
-  - Analyzed restaurant orders to find most/least ordered items, customer spending patterns, and category insights.  
+  - Analyzed restaurant orders to identify most/least ordered items, customer spending patterns, and category-level insights.  
   - **Skills used**: SQL, Data Exploration, Joins, Aggregate Functions  
-  - 📂 [https://drive.google.com/drive/folders/1fyjZbnvbWWA_MJ9JNQHasnTYoaAhPp2u](LINK_TO_YOUR_GOOGLE_DRIVE)
+  - 📂 [View Project](https://drive.google.com/drive/folders/1fyjZbnvbWWA_MJ9JNQHasnTYoaAhPp2u)
 
+- <b>Company Layoffs Data Cleaning (Excel & Google Sheets)</b>  
+  - Cleaned and standardized a real-world dataset on company layoffs, preparing it for deeper analysis.  
+  - Addressed missing values, standardized formats, and ensured data consistency.  
+  - **Skills used**: Data Cleaning, Excel Functions, Data Wrangling, Google Sheets  
+  - 📂 [View Project](LINK_TO_LAYOFFS_PROJECT)
 
+---
 
 <h2>🌱 Currently Learning:</h2>
 
@@ -25,8 +31,8 @@
 
 <h2>📫 Let's Connect:</h2>
 
-- [[LinkedIn](https://www.linkedin.com/in/john-ernie-l-04b56a179/)]
-- [john.lubugan20@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/john-ernie-l-04b56a179/)  
+- 📧 john.lubugan20@gmail.com
 
 ---
 
