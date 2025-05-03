@@ -17,7 +17,7 @@
   - Cleaned and standardized a real-world dataset on company layoffs, preparing it for deeper analysis.  
   - Addressed missing values, standardized formats, and ensured data consistency.  
   - **Skills used**: Data Cleaning, Excel Functions, Data Wrangling, Google Sheets  
-  - 📂 [View Project](LINK_TO_LAYOFFS_PROJECT)
+  - 📂 [View Project]([LINK_TO_LAYOFFS_PROJECT](https://drive.google.com/drive/folders/11M55Xv2qKYIERZdJulVR7mIoUBHSfnTk?usp=drive_link))
 
 ---
 
